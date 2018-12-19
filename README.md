@@ -19,8 +19,8 @@ The training can be run via jupyter notebook as well as in a python script.
 
 ## Poster and Report
 
-* [Poster](https://github.com/ste93ste/ChestXRayClassification/blob/master/Documents/643_poster.pdf)
-* [Report](https://github.com/ste93ste/ChestXRayClassification/blob/master/Documents/643_poster.pdf)
+* [Poster](https://github.com/ste93ste/ChestXRayClassification/blob/master/Documents/Poster.pdf)
+* [Report](https://github.com/ste93ste/ChestXRayClassification/blob/master/Documents/Report.pdf)
 
 
 ## Authors
